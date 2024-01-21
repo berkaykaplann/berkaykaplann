@@ -1,14 +1,31 @@
 
-[![MasterHead](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
+<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
 
-<h1 align="center">Hi 👋, I'm Berkay Kaplan</h1>
-<h3 align="center">(A passionate frontend developer from Türkiye)</h3>
+<h1 align="left">Hi 👋, I'm Berkay Kaplan</h1>
+<h3 align="left">(A passionate frontend developer from Türkiye)</h3>
+<ul>
+  <li align="left">Hello, I am Berkay, and I am a third-year computer engineering student at Iskenderun Technical University.</li>
+  <li>I am currently learning web programming and the Python language.</li>
+  <li>I am always striving to improve myself.</li>
+</ul>
 
 
-<h2 align="center">Github Stats:</h2>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkaykaplann&show_icons=true&locale=en" alt="berkaykaplann" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkaykaplann&" alt="berkaykaplann" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkaykaplann&show_icons=true&locale=en&layout=compact" alt="berkaykaplann" /></p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h2 align="">Github Stats:</h2>
+<p align="">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkaykaplann&show_icons=true&locale=en" alt="berkaykaplann" /></p>
+<p align=""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkaykaplann&" alt="berkaykaplann" /></p>
+<p align=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkaykaplann&show_icons=true&locale=en&layout=compact" alt="berkaykaplann" /></p>
 
 
 
