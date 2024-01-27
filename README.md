@@ -1,5 +1,5 @@
 
-<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
+<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="500px" height="350px">
 
 <h1 align="left">Hi 👋, I'm Berkay Kaplan</h1>
 <h3 align="left">(A passionate frontend developer from Türkiye)</h3>
@@ -11,11 +11,9 @@
 
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
+
+
+
 <br>
 <br>
 <br>
