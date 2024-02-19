@@ -1,12 +1,12 @@
 
 <img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="500px" height="350px">
 
-<h1 align="left">Hi 👋, I'm Berkay Kaplan</h1>
+<h1 align="center">Hi 👋, I'm Berkay Kaplan</h1>
 <h3 align="left">(A passionate frontend developer from Türkiye)</h3>
 <ul>
-  <li align="left">Hello, I am Berkay, and I am a third-year computer engineering student at Iskenderun Technical University.</li>
-  <li>I am currently learning web programming and the Python language.</li>
-  <li>I am always striving to improve myself.</li>
+  <li align="left"><p>Hello, I am Berkay, and I am a third-year computer engineering student at Iskenderun Technical University.</p></li>
+  <li><p>I am currently learning web programming and the Python language.</p></li>
+  <li><p>I am always striving to improve myself.</p></li>
 </ul>
 
 
@@ -20,13 +20,7 @@
 <br>
 <br>
 <br>
-<h2 align="">Github Stats:</h2>
-<p align="">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkaykaplann&show_icons=true&locale=en" alt="berkaykaplann" /></p>
-<p align=""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkaykaplann&" alt="berkaykaplann" /></p>
-<p align=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkaykaplann&show_icons=true&locale=en&layout=compact" alt="berkaykaplann" /></p>
-
-
-
+<hr>
  <h3 align="" > 💻Languages:</h3>
 <p align="">  <img src="https://camo.githubusercontent.com/5368c2561cd7b2a927d069be9520aa81b527bc960c0da3bbbeb81e42f570be74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465"/>
  </a>  <img src="https://camo.githubusercontent.com/6f190b28a66241a16cc31010fe4ce40fcfde787a4322a663b01517dd18a21192/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332d2532333233393132302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465" alt="csharp"/> </a>  <img src="https://camo.githubusercontent.com/5e7e215d9ff3a7c2e96d09232c11b2205565c841d1129dd2185ebd967284121f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"/>  <img src="https://camo.githubusercontent.com/6531a4161596e3d9fdab3d0499a7b7ce5c5c8b568be219f3e9707af042e575d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="css3" />  </a>  </a>  <img src="https://camo.githubusercontent.com/0562f16a4ae7e35dae6087bf8b7805fb7e664a9e7e20ae6d163d94e56b94f32d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" alt="python" /> </a> <img src="https://camo.githubusercontent.com/53ec2e58e03ba275d9b3a386abd96a243cf744a1a7121bdf8262fc8ae6ebc335/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"> </p>
@@ -44,8 +38,13 @@
 <a href="https://www.linkedin.com/in/berkay-kaplan-2aa7252a7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtpKYXf1cQ%2BGwKt%2FiwG%2BwXg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkay kaplan" height="30" width="40" /></a>
 <a href="https://instagram.com/berkaykaplannn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="berkaykaplannn" height="30" width="40" /></a>
 </p>
+<hr>
 
 
+<h2 align="center">Github Stats:</h2>
+<span align=""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkaykaplann&" alt="berkaykaplann" /></span>
+<span align="">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkaykaplann&show_icons=true&locale=en" alt="berkaykaplann" /></span>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkaykaplann&show_icons=true&locale=en&layout=compact" alt="berkaykaplann" /></p>
 
 
 
