@@ -9,13 +9,6 @@
   <li><p>I am always striving to improve myself.</p></li>
 </ul>
 
-
-
-
-
-
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -42,9 +35,10 @@
 
 
 <h2 align="center">Github Stats:</h2>
-<span align=""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkaykaplann&" alt="berkaykaplann" /></span>
+
 <span align="">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkaykaplann&show_icons=true&locale=en" alt="berkaykaplann" /></span>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkaykaplann&show_icons=true&locale=en&layout=compact" alt="berkaykaplann" /></p>
+<span align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkaykaplann&show_icons=true&locale=en&layout=compact" alt="berkaykaplann" /></span>
+<p align=""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkaykaplann&" alt="berkaykaplann" /></p>
 
 
 
